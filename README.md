@@ -2,19 +2,6 @@
 
 Dashboard interaktif berbasis **Streamlit** untuk menganalisis data penyewaan sepeda selama tahun 2011–2012.
 
-## ✨ Fitur Analisis
-
-- Perbandingan jumlah penyewaan antara tahun 2011 dan 2012
-- Pola bulanan dan musiman penyewaan sepeda
-- Pengaruh suhu, kelembaban, angin, dan cuaca terhadap penyewaan
-- Rata-rata penggunaan sepeda dalam 24 jam
-- Perbedaan perilaku pengguna **casual** dan **registered**
-- Klasterisasi (`cnt_cluster`, `zona_suhu`, `jenis_hari`, dll)
-- Filter interaktif: tahun dan musim
-- Download hasil analisis dalam CSV
-
----
-
 ## 🚀 Cara Menjalankan Aplikasi
 
 ### 🔧 1. Setup Environment dengan Anaconda
