@@ -11,8 +11,8 @@ st.markdown("Dashboard interaktif ini menyajikan analisis penyewaan sepeda berda
 # Load Data
 @st.cache_data
 def load_data():
-    df_day = pd.read_csv('day.csv')
-    df_hour = pd.read_csv('hour.csv')
+    df_day = pd.read_csv('./day.csv')
+    df_hour = pd.read_csv('./hour.csv')
     df_day['dteday'] = pd.to_datetime(df_day['dteday'])
     df_hour['dteday'] = pd.to_datetime(df_hour['dteday'])
     return df_day, df_hour
