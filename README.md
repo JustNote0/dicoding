@@ -1,6 +1,6 @@
 # 📊 Dicoding Bike Sharing Dashboard
 
-Dashboard interaktif berbasis **Streamlit** untuk menganalisis data penyewaan sepeda per hari dan per jam selama tahun 2011–2012.
+Dashboard interaktif berbasis **Streamlit** untuk menganalisis data penyewaan sepeda selama tahun 2011–2012.
 
 ## ✨ Fitur Analisis
 
