@@ -1,1 +1,1 @@
-https://dicodingbikesharinganalysisdasboard.streamlit.app/
+https://dicodingbikesharingdasboard.streamlit.app/
