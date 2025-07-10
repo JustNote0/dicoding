@@ -23,8 +23,9 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis data penyewaan se
 conda create --name bike-ds python=3.9
 conda activate bike-ds
 pip install -r requirements.txt
+```
 
-### 🔧 🐚 2. Setup Environment dengan Shell / Terminal
+### 🐚 2. Setup Environment dengan Shell / Terminal
 
 ```bash
 mkdir "Dicoding Bike Sharing"
@@ -32,3 +33,10 @@ cd "Dicoding Bike Sharing"
 pipenv install
 pipenv shell
 pip install -r requirements.txt
+```
+
+###  ▶️ 3. Jalankan Aplikasi Streamlit
+
+```bash
+streamlit run dashboard.py
+```
