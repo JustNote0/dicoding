@@ -9,7 +9,7 @@ st.title("📊 Bike Sharing Analysis Dashboard")
 st.markdown("Dashboard interaktif ini menyajikan analisis penyewaan sepeda berdasarkan data harian dan per jam selama tahun 2011–2012.")
 
 # Load Data
-@st.cache_data
+# @st.cache_data
 def load_data():
     df_day = pd.read_csv('day.csv')
     df_hour = pd.read_csv('hour.csv')
